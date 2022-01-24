@@ -3,7 +3,7 @@
 ## Overview of the Project:
 
 ### Purpose
-Dana’s wants to more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time on the web page. In addition to the date, the following additional filters have been added to the web page:
+Dana’s wants more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time on the web page. In addition to the date, the following additional filters have been added to the web page:
   - City
   - State
   - Country
